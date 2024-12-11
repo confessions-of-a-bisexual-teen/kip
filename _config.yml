@@ -3,7 +3,7 @@ title: BiBlog
 baseurl: "/kip"
 desc: Racconto la mia vita senza filtri, racconto dettagli che la sente non sa su di me, cioè la mia vita segreta!
 about: Hey sono Connor! Sono del nord italia, e qui racconto la mia vita segreta, che nessuno o quasi non conosce!
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+image: https://i.pinimg.com/736x/1e/83/23/1e83233716241f86fc8847eb3ea8e081.jpg
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
