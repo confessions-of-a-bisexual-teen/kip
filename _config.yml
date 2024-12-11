@@ -1,8 +1,8 @@
 ---
 title: Minimal Text
 baseurl: "/kip"
-desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
+desc: Racconto la mia vita senza filtri, racconto dettagli che la sente non sa su di me, cioè la mia vita segreta!
+about: Hey sono Connor! Sono del nord italia, e qui racconto la mia vita segreta, che nessuno o quasi non conosce!
 image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
@@ -12,7 +12,7 @@ exclude:
   - .jekyll-metadata
   - README.md
   - CNAME
-paginate: 5
+paginate: 3
 paginate_path: "/:num/"
 highlighter: rouge
 permalink: pretty
