@@ -16,3 +16,10 @@ paginate: 3
 paginate_path: "/:num/"
 highlighter: rouge
 permalink: pretty
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
